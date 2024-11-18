@@ -1,0 +1,14 @@
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\bin\Debug\net8.0\oop-assigment-2-A-2024-74154.exe
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\bin\Debug\net8.0\oop-assigment-2-A-2024-74154.deps.json
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\bin\Debug\net8.0\oop-assigment-2-A-2024-74154.runtimeconfig.json
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\bin\Debug\net8.0\oop-assigment-2-A-2024-74154.dll
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\bin\Debug\net8.0\oop-assigment-2-A-2024-74154.pdb
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\oop-assigment-2-A-2024-74154.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\oop-assigment-2-A-2024-74154.AssemblyInfoInputs.cache
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\oop-assigment-2-A-2024-74154.AssemblyInfo.cs
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\oop-assigment-2-A-2024-74154.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\oop-assigment-2-A-2024-74154.dll
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\refint\oop-assigment-2-A-2024-74154.dll
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\oop-assigment-2-A-2024-74154.pdb
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\oop-assigment-2-A-2024-74154.genruntimeconfig.cache
+C:\Users\LATITUDE\source\repos\oop-assigment-22-A-2024-74154\obj\Debug\net8.0\ref\oop-assigment-2-A-2024-74154.dll
